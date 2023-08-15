@@ -5,6 +5,7 @@ Parent pom containing common configurations for my projects.
 * spotless - https://github.com/diffplug/spotless
 * config-files - https://github.com/Majoolwip/config-files
 ## Change Log
+* 1.0.5 - Uplifted config-files to 1.0.5
 * 1.0.4 - Added spotless to the <plugins> section.
 * 1.0.3 - Updated config-files to 1.0.3
 * 1.0.2 - Fixed incorrect property tag.

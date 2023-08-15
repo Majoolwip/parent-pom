@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>majoolwip</groupId>
   <artifactId>parent-pom</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <packaging>pom</packaging>
   <name>Majoolwip's Parent Pom</name>
   <description>Parent pom for Majoolwip's projects. Contains configurations that are consistence across my projects.</description>
@@ -44,7 +44,7 @@
             <dependency>
               <groupId>majoolwip</groupId>
               <artifactId>config-files</artifactId>
-              <version>1.0.3</version>
+              <version>1.0.5</version>
             </dependency>
           </dependencies>
           <executions>
